@@ -1,7 +1,7 @@
 Vue.component("ReservationForm", {
   template: `<div>
     <div class="container mb-3">
-    <MainTitle title="Crear una nueva reservacion"></MainTitle>
+    <MainTitle title="Crear una nueva reservacion :)"></MainTitle>
     <form action="">
         
         <label for="code" class="form-label">Código de Reservación:</label>
